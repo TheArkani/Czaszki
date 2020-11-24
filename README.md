@@ -10,10 +10,13 @@ Jako własciciel skryptu zezwlalm na konfiguracje skryptu **TYLKO W SKECJII KONF
 							   :=====================:
 								konfiguracja
 			   		 		   :=====================:
-Wieć spkojnie dasz radę!
+Wiec spkojnie dasz radę!
+
 #Gdzie można pobrać paczkę?
 Wersje **DARMOWĄ** ArPack'a możesz pobrać z linku niżej. Jeżeli chcesz zakupic jadnak paczkę na wersjii płatnej, napsz do mnie na discordzie **TheArkani#2020#** i dogadamy się z zapłatą ;).  W przypadku jakich kolweik problemów z paczką napisz na discordzie podanym wyżej. Zalezy mi by paczka działała jak najlepiej więc nie bójcie sie pisać!.
 #Linki 
+
+Darmowa paczka-Gdzy dojde do końca opisywania skryptów tutaj pojawi się link 
 
 
 
